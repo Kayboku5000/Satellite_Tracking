@@ -1,0 +1,32 @@
+TBR2Z8-AGNNGB-Q6EB3P-4AIN
+
+https://www.n2yo.com/rest/v1/satellite/&apiKey=TBR2Z8-AGNNGB-Q6EB3P-4AIN
+
+&apiKey={your API key}
+
+
+TBR2Z8-AGNNGB-Q6EB3P-4AIN
+
+
+https://www.n2yo.com/rest/v1/satellite/tle/33591/&apiKey=TBR2Z8-AGNNGB-Q6EB3P-4AIN
+
+
+examples keys
+
+https://www.n2yo.com/rest/v1/satellite/tle/25544&apiKey=589P8Q-SDRYX8-L842ZD-5Z9
+
+
+
+https://www.n2yo.com/rest/v1/satellite/positions/25544/41.702/-76.014/0/2/&apiKey=TBR2Z8-AGNNGB-Q6EB3P-4AIN
+
+
+To get radio passes
+
+Request: /radiopasses/{id}/{observer_lat}/{observer_lng}/{observer_alt}/{days}/{min_elevation}
+
+Request: https://www.n2yo.com/rest/v1/satellite/radiopasses/33591/-37.7667/144.963/0/2/40/&apiKey=TBR2Z8-AGNNGB-Q6EB3P-4AIN
+
+Your location:	BRUNSWICK,
+Latitude:	-37.7667°
+Longitude:	144.963°
+Magnetic decl.:	11° 43' E
